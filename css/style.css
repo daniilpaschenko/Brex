@@ -1,0 +1,54 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(33, 33, 33);
+}
+
+
+/****************************************************************/
+.letter-spacing-0_28px {
+  letter-spacing: 0.28px;
+}
+
+.letter-spacing-0_14px {
+  letter-spacing: 0.14px;
+}
+
+.letter-spacing-1_6px {
+  letter-spacing: 1.6px;
+}
+
+.letter-spacing-0_4px {
+  letter-spacing: 0.4px;
+}
+
+.brex-for-enterprise {
+  background: url(../img/brex-for-enterprise_background.png);
+}
+
+.brex-for-startups {
+  background: url(../img/brex-for-startups-background.png);
+}
+
+.letter-spacing-0_64px {
+  letter-spacing: 0.64px;
+}
+
+.letter-spacing-0_32px {
+  letter-spacing: 0.32px;
+}
+
+.background-249_249_249 {
+  background-color: rgb(249, 249, 249);
+}
+
+.footer-bg {
+  background-color: rgb(23, 23, 23);
+}
+
+.text-color_gray {
+  color: rgb(189, 189, 189);
+}
+
+.letter-spacing-0_24px {
+  letter-spacing: 0.24px;
+}
